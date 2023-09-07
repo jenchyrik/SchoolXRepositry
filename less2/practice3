@@ -1,0 +1,12 @@
+def guess():
+    a = int(input('введите число:'))
+    b = 1
+    while b**2 <= a:
+        if b**2 == a:
+            return b
+            break
+        else: 
+            b += 1
+    if b**2 != a: return('трудно')
+
+print(guess())
