@@ -1,0 +1,8 @@
+player1, player2 = input('Ввод: ').split(' ')
+if (player1.lower() == "камень") & (player2.lower() == "ножницы") : print('игрок 1 выиграл')
+elif (player1.lower() == "камень") & (player2.lower() == "бумага" ): print('игрок 2 выиграл')
+elif (player1.lower() == "ножницы") &( player2.lower() == "камень") : print('игрок 2 выиграл')
+elif (player1.lower() == "ножницы") &( player2.lower() == "бумага") : print('игрок 1 выиграл')
+elif (player1.lower() == "бумага") & (player2.lower() == "ножницы") : print('игрок 2 выиграл')
+elif (player1.lower() == "бумага") & (player2.lower() == "камень" ): print('игрок 1 выиграл')
+else : print('ничья')
