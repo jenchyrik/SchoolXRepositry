@@ -1,0 +1,460 @@
+﻿a ;а
+ai ;ай
+an ;ан
+ang ;анъ
+ao ;ао
+ba ;ба
+bai ;бай
+ban ;бан
+bang ;банъ
+bao ;бао
+bei ;бэй
+ben ;бэн
+beng ;бэнъ
+bi ;би
+bian ;бьен
+biao ;бьяо
+bie ;бье
+bin ;бин
+bing ;бинъ
+bo ;бо
+bu ;бу
+ca ;цха
+cai ;цхай
+can ;цхан
+cang ;цханъ
+cao ;цхао
+ce ;цхэ
+cen ;цхэн
+ceng ;цхэнъ
+cha ;чха
+chai ;чхай
+chan ;чхан
+chang ;чханъ
+chao ;чхао
+che ;чхэ
+chen ;чхэн
+cheng ;чхэнъ
+chi ;чши
+chong ;чхунъ
+chou ;чхоу
+chu ;чху
+chuai ;чхуай
+chuan ;чхуан
+chuang ;чхуанъ
+chui ;чхуй
+chun ;чхун
+chuo ;чхуо
+ci ;цхы
+cong ;цхунъ
+cou ;цхоу
+cu ;цху
+cuan ;цхуан
+cui ;цхуй
+cun ;цхун
+cuo ;цхуо
+da ;да
+dai ;дай
+dan ;дан
+dang ;данъ
+dao ;дао
+de ;дэ
+dei ;дэй
+deng ;дэнъ
+di ;ди
+dia ;дья
+dian ;дьен
+diao ;дьяо
+die ;дье
+ding ;динъ
+diu ;диу
+dong ;дунъ
+dou ;доу
+du ;ду
+duan ;дуан
+dui ;дуй
+dun ;дун
+duo ;дуо
+e ;э
+ei ;эй
+en ;эн
+eng ;энъ
+er ;ар
+fa ;фа
+fan ;фан
+fang ;фанъ
+fei ;фэй
+fen ;фэн
+feng ;фэнъ
+fo ;фо
+fou ;фоу
+fu ;фу
+ga ;га
+gai ;гай
+gan ;ган
+gang ;ганъ
+gao ;гао
+ge ;гэ
+gei ;гэй
+gen ;гэн
+geng ;гэнъ
+gong ;гунъ
+gou ;гоу
+gu ;гу
+gua ;гуа
+guai ;гуай
+guan ;гуан
+guang ;гуанъ
+gui ;гуй
+gun ;гун
+guo ;гуо
+ha ;ха
+hai ;хай
+han ;хан
+hang ;ханъ
+hao ;хао
+he ;хэ
+hei ;хэй
+hen ;хэн
+heng ;хэнъ
+hong ;хунъ
+hong ;хунъ
+hu ;ху
+hua ;хуа
+huai ;хуай
+huan ;хуан
+huang ;хуанъ
+hui ;хуй
+hun ;хун
+huo ;хуо
+ji ;дзи
+jia ;дзя
+jian ;дзьен
+jiang ;дзянъ
+jiao ;дзяо
+jie ;дзье
+jin ;дзин
+jing ;дзинъ
+jiong ;дзьёнъ
+jiu ;дзиу
+ju ;дзю
+juan ;дзюан
+jue ;дзюэ
+jun ;дзюн
+ka ;кха
+kai ;кхай
+kan ;кхан
+kang ;кханъ
+kao ;кхао
+ke ;кхэ
+ken ;кхэн
+keng ;кхэнъ
+kong ;кхунъ
+kou ;кхоу
+ku ;кху
+kua ;кхуа
+kuai ;кхуай
+kuan ;кхуан
+kuang ;кхуанъ
+kui ;кхуй
+kun ;кхун
+kuo ;кхуо
+la ;ла
+lai ;лай
+lan ;лан
+lang ;ланъ
+lao ;лао
+le ;лэ
+lei ;лэй
+leng ;лэнъ
+li ;ли
+lia ;лья
+lian ;льен
+liang ;льянъ
+liao ;льяо
+lie ;лье
+lin ;лин
+ling ;линъ
+liu ;лиу
+long ;лунъ
+lou ;лоу
+lü ;лйю
+lu ;лу
+luan ;луан
+lüe ;лйюэ
+lun ;лун
+luo ;луо
+m ;м
+ma ;ма
+mai ;май
+man ;ман
+mang ;манъ
+mao ;мао
+me ;мэ
+mei ;мэй
+men ;мэн
+meng ;мэнъ
+mi ;ми
+mian ;мьен
+miao ;мьао
+mie ;мье
+min ;мин
+ming ;минъ
+miu ;миу
+mo ;мо
+mou ;моу
+mu ;му
+n ;н
+na ;на
+nai ;най
+nan ;нан
+nang ;нанъ
+nao ;нао
+ne ;нэ
+nei ;нэй
+nen ;нэнь
+neng ;нэн
+ng ;нг
+ni ;ни
+nian ;ньен
+niang ;ньянъ
+niao ;ньяо
+nie ;нье
+nin ;нин
+ning ;нинъ
+niu ;ниу
+nong ;нунъ
+nü ;нйю
+nu ;ну
+nuan ;нуан
+nüe ;нйюэ
+nuo ;нуо
+o ;о
+ou ;оу
+pa ;пха
+pai ;пхай
+pan ;пхан
+pang ;пханъ
+pao ;пхао
+pei ;пхэй
+pen ;пхэн
+peng ;пхэнъ
+pi ;пхи
+pian ;пхьен
+piao ;пхьяо
+pie ;пхье
+pin ;пхин
+ping ;пхинъ
+po ;пхо
+pou ;пхоу
+pu ;пху
+qi ;тьси
+qia ;ться
+qian ;тьсьен
+qiang ;тьсьянъ
+qiao ;тьсяо
+qie ;тьсье
+qin ;тьсин
+qing ;тьсинъ
+qiong ;тьсёнъ
+qiu ;тьсиу
+qu ;тьсю
+quan ;тьсюан
+que ;тьсюэ
+qun ;тьсун
+ran ;жан
+rang ;жанъ
+rao ;жао
+re ;жэ
+ren ;жэн
+reng ;жэнъ
+ri ;жи
+rong ;жунъ
+rou ;жоу
+ru ;жу
+ruan ;жуан
+rui ;жуй
+run ;жун
+ruo ;жуо
+sa ;са
+sai ;сай
+san ;сан
+sang ;санъ
+sao ;сао
+se ;сэ
+sen ;сэн
+seng ;сэнъ
+sha ;ша
+shai ;шай
+shan ;шан
+shang ;шанъ
+shao ;шао
+she ;шэ
+shei ;шэй
+shen ;шэн
+sheng ;шэнъ
+shi ;ши
+shou ;шоу
+shu ;шу
+shua ;шуа
+shuai ;шуай
+shuan ;шуан
+shuang ;шуанъ
+shui ;шуй
+shun ;шун
+shuo ;шуо
+si ;сы
+song ;сунъ
+sou ;соу
+su ;су
+suan ;суан
+sui ;суй
+sun ;сун
+suo ;суо
+ta ;тха
+tai ;тхай
+tan ;тхан
+tang ;тхан
+tao ;тхао
+te ;тхэ
+ten ;тхэн
+teng ;тхэнъ
+ti ;тхи
+tian ;тхьен
+tiao ;тхяо
+tie ;тхье
+ting ;тхинъ
+tong ;тхунъ
+tou ;тхоу
+tu ;тху
+tuan ;тхуан
+tui ;тхуй
+tun ;тхун
+tuo ;тхуо
+wa ;ва
+wai ;вай
+wan ;ван
+wang ;ванъ
+wei ;вэй
+wen ;вэн
+weng ;вэнъ
+wo ;во
+wu ;ву
+xi ;си
+xia ;сья
+xian ;сьен
+xiang ;сьянъ
+xiao ;сяо
+xie ;сье
+xin ;син
+xing ;син
+xiong ;сьёнъ
+xiu ;сиу
+xu ;сю
+xuan ;сюан
+xue ;сюэ
+xun ;сюн
+ya ;я
+yan ;ен
+yang ;янъ
+yao ;яо
+ye ;е
+yi ;йи
+yin ;йин
+ying ;йинъ
+yong ;ёнъ
+you ;йоу
+yu ;ю
+yuan ;юан
+yue ;юэ
+yun ;юн
+za ;дза
+zai ;дзай
+zan ;дзан
+zang ;дзанъ
+zao ;дзао
+ze ;дзэ
+zei ;дзэй
+zen ;дзэн
+zeng ;дзэнъ
+zha ;джа
+zhai ;джай
+zhan ;джан
+zhang ;джанъ
+zhao ;джао
+zhe ;джэ
+zhei ;джэй
+zhen ;джэн
+zheng ;джэнъ
+zhi ;джи
+zhong ;джунъ
+zhou ;джоу
+zhu ;джу
+zhua ;джуа
+zhuai ;джуай
+zhuan ;джуан
+zhuang ;джуанъ
+zhui ;джуй
+zhun ;джун
+zhuo ;джуо
+zi ;дзы
+zong ;дзунъ
+zou ;дзоу
+zu ;дзу
+zuan ;дзуан
+zui ;дзуй
+zun ;дзун
+zuo ;дзуо
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
